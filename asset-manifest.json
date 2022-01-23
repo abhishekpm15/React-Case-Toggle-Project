@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Case-Toggle-Project/static/css/main.fa239458.css",
+    "main.js": "/React-Case-Toggle-Project/static/js/main.94ff95fb.js",
+    "static/js/787.09b88243.chunk.js": "/React-Case-Toggle-Project/static/js/787.09b88243.chunk.js",
+    "index.html": "/React-Case-Toggle-Project/index.html",
+    "main.fa239458.css.map": "/React-Case-Toggle-Project/static/css/main.fa239458.css.map",
+    "main.94ff95fb.js.map": "/React-Case-Toggle-Project/static/js/main.94ff95fb.js.map",
+    "787.09b88243.chunk.js.map": "/React-Case-Toggle-Project/static/js/787.09b88243.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa239458.css",
+    "static/js/main.94ff95fb.js"
+  ]
+}
