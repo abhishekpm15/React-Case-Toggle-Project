@@ -1,0 +1,28 @@
+*{
+    background-color: rgb(164, 131, 194);
+}
+
+.form-control{
+    border-color: rgb(0, 0, 0);
+    border-width: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+
+}
+
+.head{
+    text-align: center;
+}
+
+.btn{
+    margin-left: auto;
+    margin-right:auto;
+    border-color: black;
+    border-width: 3px;
+}
+
+.buttons{
+    text-align:center;
+}
